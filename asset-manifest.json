@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fleja-react-static-web/static/css/main.97f616c2.css",
+    "main.js": "/fleja-react-static-web/static/js/main.e5f65005.js",
+    "static/js/787.28cb0dcd.chunk.js": "/fleja-react-static-web/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/fleja-react-static-web/index.html",
+    "main.97f616c2.css.map": "/fleja-react-static-web/static/css/main.97f616c2.css.map",
+    "main.e5f65005.js.map": "/fleja-react-static-web/static/js/main.e5f65005.js.map",
+    "787.28cb0dcd.chunk.js.map": "/fleja-react-static-web/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f616c2.css",
+    "static/js/main.e5f65005.js"
+  ]
+}
